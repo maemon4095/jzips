@@ -1,0 +1,5 @@
+{
+  "name": "@maemon4095/jzips",
+  "version": "1.0.0",
+  "exports": "./src/mod.ts"
+}
